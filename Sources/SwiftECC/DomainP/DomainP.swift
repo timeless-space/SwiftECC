@@ -5,7 +5,7 @@
 //  Created by Leif Ibsen on 01/10/2019.
 //
 
-import ASN1
+ 
 import BigInt
 
 class DomainP {

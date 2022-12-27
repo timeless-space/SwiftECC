@@ -6,7 +6,7 @@
 //  Copyright © 2019 Leif Ibsen. All rights reserved.
 //
 
-import ASN1
+ 
 import BigInt
 
 class EC521r1: DomainP {
