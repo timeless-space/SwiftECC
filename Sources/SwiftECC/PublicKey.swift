@@ -1,13 +1,9 @@
 //
 //  PublicKey.swift
 //  SwiftECC
-//
-//  Created by Leif Ibsen on 18/02/2020.
-//
 
 import Foundation
 import CryptoKit
-import ASN1
 import BigInt
 ///
 /// An Elliptic Curve public key

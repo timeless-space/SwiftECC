@@ -1,11 +1,8 @@
 //
 //  Signature.swift
 //  SwiftECC
-//
-//  Created by Leif Ibsen on 18/02/2020.
-//
 
-import ASN1
+
 import BigInt
 
 ///

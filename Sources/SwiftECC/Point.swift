@@ -1,9 +1,6 @@
 //
 //  Point.swift
 //  AEC
-//
-//  Created by Leif Ibsen on 23/10/2019.
-//
 
 import BigInt
 

@@ -1,9 +1,7 @@
 //
 //  Base64.swift
 //  AEC
-//
-//  Created by Leif Ibsen on 06/01/2020.
-//
+
 
 ///
 /// There is no Base64 instances.

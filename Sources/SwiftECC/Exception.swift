@@ -1,9 +1,7 @@
 //
 //  Exception.swift
 //  SwiftECC
-//
-//  Created by Leif Ibsen on 18/02/2020.
-//
+
 
 ///
 /// Elliptic curve exceptions

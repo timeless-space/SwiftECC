@@ -1,9 +1,7 @@
 //
 //  Curve.swift
 //  SwiftECC
-//
-//  Created by Leif Ibsen on 18/02/2020.
-//
+
 
 ///
 /// Built-in elliptic curves
