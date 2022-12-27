@@ -484,7 +484,7 @@ public class Domain: CustomStringConvertible, Equatable {
     }
     
     // Multiply the generator point by n
-    func multiplyG(_ n: BInt) -> Point {
+    public func multiplyG(_ n: BInt) -> Point {
         return self.characteristic2 ? self.domain2!.multiplyG(n) : self.domainP!.multiplyG(n)
     }
 
