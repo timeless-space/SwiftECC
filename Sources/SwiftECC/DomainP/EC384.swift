@@ -5,8 +5,6 @@
 //  Created by Leif Ibsen on 12/11/2018.
 //
 
- 
-import BigInt
 
 class EC384r1: DomainP {
     

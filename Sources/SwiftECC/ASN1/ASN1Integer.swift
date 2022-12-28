@@ -2,7 +2,6 @@
 //  ASN1Integer.swift
 //  ASN1
 
-import BigInt
 
 /// ASN1 Integer class
 public class ASN1Integer: ASN1, CustomStringConvertible {

@@ -3,7 +3,6 @@
 //  ASN1
 
 import Foundation
-import BigInt
 
 /// The superclass of all ASN1-classes
 public class ASN1: Equatable {

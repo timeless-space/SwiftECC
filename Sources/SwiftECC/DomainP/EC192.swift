@@ -6,8 +6,6 @@
 //  Copyright © 2019 Leif Ibsen. All rights reserved.
 //
 
- 
-import BigInt
 
 class EC192k1: DomainP {
     

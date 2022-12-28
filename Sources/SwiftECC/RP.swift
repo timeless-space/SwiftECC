@@ -2,7 +2,6 @@
 //  RP.swift
 //  AEC
 
-import BigInt
 
 ///
 /// RP instances contain reduction polynomials like

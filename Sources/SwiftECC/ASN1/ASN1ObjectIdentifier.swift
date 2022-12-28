@@ -2,7 +2,6 @@
 //  ASN1ObjectIdentifier.swift
 //  ASN1
 
-import BigInt
 
 /// ASN1 ObjectIdentifier class
 public class ASN1ObjectIdentifier: ASN1SimpleType, CustomStringConvertible, Hashable {

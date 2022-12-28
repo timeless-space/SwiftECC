@@ -5,8 +5,6 @@
 //  Created by Leif Ibsen on 24/03/2019.
 //
 
- 
-import BigInt
 
 class BP256r1: DomainP {
     

@@ -5,8 +5,6 @@
 //  Created by Leif Ibsen on 01/10/2019.
 //
 
- 
-import BigInt
 
 class DomainP {
 

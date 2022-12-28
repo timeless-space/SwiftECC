@@ -3,8 +3,6 @@
 //  AEC
 
 
-import BigInt
-
 ///
 /// An 8-bit unsigned integer
 ///

@@ -2,7 +2,6 @@
 //  Point.swift
 //  AEC
 
-import BigInt
 
 ///
 /// Point instances contain elliptic curve points.

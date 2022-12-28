@@ -5,9 +5,6 @@
 //  Created by Leif Ibsen on 24/03/2019.
 //
 
- 
-import BigInt
-
 class BP224r1: DomainP {
     
     static let name = "brainpoolP224r1"

@@ -7,7 +7,6 @@
 //
 
  
-import BigInt
 
 class EC521r1: DomainP {
     

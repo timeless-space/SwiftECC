@@ -6,8 +6,6 @@
 //  Copyright © 2019 Leif Ibsen. All rights reserved.
 //
 
-import BigInt
-
 // Internal representation of curve points in a characteristic 2 domain
 // The x- and y-coordinates are bitvectors
 struct Point2: Equatable {

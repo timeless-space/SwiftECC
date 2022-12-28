@@ -6,7 +6,6 @@
 //
 
  
-import BigInt
 
 class Domain2 {
     

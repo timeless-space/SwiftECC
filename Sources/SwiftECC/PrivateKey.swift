@@ -5,7 +5,6 @@
 
 import Foundation
 import CryptoKit
-import BigInt
 
 ///
 /// An Elliptic Curve private key

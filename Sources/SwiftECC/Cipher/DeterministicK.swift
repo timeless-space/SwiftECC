@@ -5,8 +5,6 @@
 //  Created by Leif Ibsen on 23/01/2020.
 //
 
-import BigInt
-
 // Generate a deterministic K value for a signature - please refer [RFC-6979]
 class DeterministicK {
     

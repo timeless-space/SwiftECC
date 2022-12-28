@@ -3,7 +3,6 @@
 //  SwiftECC
 
 
-import BigInt
 
 ///
 /// ECSignature instances contain an ECDSA signature which consists of two byte arrays named *r* and *s*
